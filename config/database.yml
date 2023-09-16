@@ -8,3 +8,7 @@ development:
 
 production:
   <<: *default
+host: dpg-ck2njturu70s738rt3fg-a
+database: 5432
+username: s_original_3tto
+password: s_original_3tto_user
